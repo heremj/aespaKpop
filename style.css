@@ -1,0 +1,72 @@
+.aespa {
+    text-align: center;
+    color: white;
+}
+#karina {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(255, 112, 112);
+    background-image: url(images/karina.png);
+    padding: 50px;
+    border: 5px solid rgb(117, 0, 0);
+    display: block;
+    background-position: 50% 50%;
+    background-size: 250px;
+    background-repeat: no-repeat;
+    float: left;   
+}
+#winter {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(167, 112, 255);
+    background-image: url(images/winter.png);
+    padding: 50px;
+    border: 5px solid rgb(117, 0, 0);
+    display: block;
+    background-position: 50% 50%;
+    background-size: 260px;
+    background-repeat: no-repeat;
+    float: left;   
+}
+#ningning {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(131, 70, 189);
+    background-image: url(images/ningning.png);
+    padding: 50px;
+    border: 5px solid rgb(117, 0, 0);
+    display: block;
+    background-position: 50% 50%;
+    background-size: 320px;
+    background-repeat: no-repeat;
+    float: left;   
+}
+#giselle {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(70, 145, 189);
+    background-image: url(images/giselle.png);
+    padding: 50px;
+    border: 5px solid rgb(117, 0, 0);
+    display: block;
+    background-position: 50% 50%;
+    background-size: 350px;
+    background-repeat: no-repeat;
+    float: left;   
+}
+
+@font-face {
+    font-family: 'aespaRegular';
+    src: url(fonts/aespaRegular.ttf) format(truetype); 
+}
+
+h1{
+    height: 100px;
+    font-family: 'aespaRegular';
+    font-size: 200px;
+    text-align: center;
+}
